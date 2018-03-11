@@ -1,4 +1,4 @@
-# clash-of-clans-clanmanager
+# Clash Of Clans Clan Manager
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -13,7 +13,7 @@ The one and only Clash Of Clans Clan Manager tool which can make your life much 
 
 Via Composer
 
-```` bash
+``` bash
 $ composer require polakosz/clash-of-clans-clanmanager
 ```
 
